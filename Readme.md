@@ -1,6 +1,6 @@
 # Koa 中文文档
 
-<img src="logo.png" alt="用于 nodejs 的 koa 中间件框架"/>
+<img src="docs/logo.png" alt="用于 nodejs 的 koa 中间件框架"/>
 
   [![gitter][gitter-image]][gitter-url]
   [![NPM version][npm-image]][npm-url]
