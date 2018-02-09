@@ -33,7 +33,7 @@ const app = require('./app');
 
 你也可以用 [env preset](http://babeljs.io/docs/plugins/preset-env/) 的 target 参数 `"node": "current"` 替代.
 
-# 应用程序
+# 应用程序(Application)
 
 Koa 应用程序是一个包含一组中间件函数的对象，它是按照类似堆栈的方式组织和执行的。
 Koa 类似于你可能遇到过的许多其他中间件系统，例如 Ruby 的 Rack ，Connect 等，然而，一个关键的设计点是在其低级中间件层中提供高级“语法糖”。 这提高了互操作性，稳健性，并使书写中间件更加愉快。
